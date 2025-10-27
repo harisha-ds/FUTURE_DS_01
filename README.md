@@ -46,6 +46,7 @@ Consumer segment is the top revenue driver with ₹1.16M in sales.
 West region performs best in profit, while South and Central regions have growth potential.  
 Discounts show a negative impact on profit — suggesting smarter discount strategies needed.  
 
-# Business Impact: Helped identify profitable categories, top customers, and regional growth opportunities.
+# Business Impact: 
+Helped identify profitable categories, top customers, and regional growth opportunities.
 
 
