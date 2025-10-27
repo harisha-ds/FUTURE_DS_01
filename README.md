@@ -1,4 +1,5 @@
-# Project1: Superstore Sales Performance Dashboard
+## Project_1: 
+## Superstore Sales Performance Dashboard
 I recently completed this interactive Power BI dashboard as part of my internship project to analyze sales performance, category trends, and customer behavior for a retail superstore dataset.
 
 ### Key Insights:
@@ -11,7 +12,10 @@ Discounts show a negative impact on profit — suggesting smarter discount strat
 ### Tools Used: Power BI | DAX | Data Modelling | Data Cleaning
 ### Business Impact: Helped identify profitable categories, top customers, and regional growth opportunities.
 
-# Project2: Social Media Campaign Performance Tracker | Power BI Project
+
+
+## Project2:
+## Social Media Campaign Performance Tracker | Power BI Project
 
 Just wrapped up my latest data analytics project focused on evaluating the performance of social media ad campaigns across multiple platforms — Facebook, Instagram, Twitter, and Pinterest.
 
