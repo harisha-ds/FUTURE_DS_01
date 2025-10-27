@@ -1,52 +1,42 @@
-# Superstore Sales Dashboard (Power BI)
+# Project1: Superstore Sales Performance Dashboard
+I recently completed this interactive Power BI dashboard as part of my internship project to analyze sales performance, category trends, and customer behavior for a retail superstore dataset.
 
-An interactive Power BI dashboard built using the Superstore dataset to analyze sales performance, category trends, and customer behavior across different regions and time periods.
+### Key Insights:
+Total Sales: ₹725K | Total Profit: ₹108K | Total Orders: 1,611
+Technology category drives the highest profit margin (≈50%), while Furniture needs margin improvement.
+Consumer segment is the top revenue driver with ₹1.16M in sales.
+West region performs best in profit, while South and Central regions have growth potential.
+Discounts show a negative impact on profit — suggesting smarter discount strategies needed.
 
-# Tools & Technologies: 
-Power BI Desktop  
-Microsoft Excel (data source)  
-DAX (for calculated measures)  
-Data Modelling and Cleaning  
+### Tools Used: Power BI | DAX | Data Modelling | Data Cleaning
+### Business Impact: Helped identify profitable categories, top customers, and regional growth opportunities.
 
-# Key Metrics:  
-Total Sales: ₹725.46K  
-Total Profit: ₹108.42K  
-Total Orders: 1,611  
-Average Order Value (AOV): ₹450.32  
+# Project2: Social Media Campaign Performance Tracker | Power BI Project
 
-# Dashboard Insights:   
-1️⃣ Monthly Sales Trends  
-Sales peak during November–December (holiday season).  
-Slower sales in February and April.  
+Just wrapped up my latest data analytics project focused on evaluating the performance of social media ad campaigns across multiple platforms — Facebook, Instagram, Twitter, and Pinterest.
 
-2️⃣ Category & Sub-Category Performance  
-Technology and Furniture lead in sales.  
-Technology shows highest profit margin (50.79%), while Furniture lags at 6.44%.  
-Top sub-categories: Phones, Chairs, Storage.  
+### Objective:
+To analyze ad campaign data and measure performance in terms of engagement, CTR, conversion rate, and ROI — helping marketers identify which channels drive the best results.
 
-3️⃣ Customer & Regional Behavior  
-Consumer segment contributes the most revenue (₹1.16M).  
-West region is most profitable; South and Central have potential for growth.  
-Key customers: Raymond Buch, Tamara Chand, Ken Lonsdale.  
+### Tools Used:
+Power BI
+Excel (for data cleaning & KPI calculations)
 
-4️⃣ Discount Analysis
-Higher discounts don’t necessarily drive higher sales → margin loss risk.         
+### Key Insights
+1. 17B impressions and 5B clicks recorded — showing strong visibility across channels.
+2. Average ROI: 3.18 → campaigns are generating solid returns.
+3. Average Conversion Rate: 0.08 → opportunity to improve lead quality & targeting.
+4. Top-performing platforms: Facebook & Instagram with ROI ≈ 4.0.
+5. Pinterest underperformed → potential to reallocate ad budget.
+6. Highest performing audience: Men (35–44) and Women (25–34).
+7. Top locations: Miami, New York, Texas showing strong ROI.
+8. Campaign goals were evenly distributed — Awareness, Sales, Expansion, and Product Launch — indicating a balanced strategy.
 
-# Outcome: 
-This project demonstrates skills in:  
-Power BI data modeling & visualization  
-Business data storytelling  
-DAX calculations & KPI creation  
-Dashboard design and insights presentation  
+### Business Impact
+Improved understanding of ad efficiency across platforms.
+Identified target demographics & high-performing regions.
+Provided actionable insights to optimize spend and conversions.                  
 
-# Key Insights:
-Total Sales: ₹725K | Total Profit: ₹108K | Total Orders: 1,611  
-Technology category drives the highest profit margin (≈50%), while Furniture needs margin improvement.  
-Consumer segment is the top revenue driver with ₹1.16M in sales.  
-West region performs best in profit, while South and Central regions have growth potential.  
-Discounts show a negative impact on profit — suggesting smarter discount strategies needed.  
 
-# Business Impact: 
-Helped identify profitable categories, top customers, and regional growth opportunities.
 
 
