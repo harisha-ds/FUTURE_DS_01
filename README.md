@@ -3,11 +3,11 @@
 I recently completed this interactive Power BI dashboard as part of my internship project to analyze sales performance, category trends, and customer behavior for a retail superstore dataset.
 
 ### Key Insights:
-Total Sales: ₹725K | Total Profit: ₹108K | Total Orders: 1,611
-Technology category drives the highest profit margin (≈50%), while Furniture needs margin improvement.
-Consumer segment is the top revenue driver with ₹1.16M in sales.
-West region performs best in profit, while South and Central regions have growth potential.
-Discounts show a negative impact on profit — suggesting smarter discount strategies needed.
+1.Total Sales: ₹725K | Total Profit: ₹108K | Total Orders: 1,611    
+2.Technology category drives the highest profit margin (≈50%), while Furniture needs margin improvement.
+3.Consumer segment is the top revenue driver with ₹1.16M in sales.
+4.West region performs best in profit, while South and Central regions have growth potential.
+5.Discounts show a negative impact on profit — suggesting smarter discount strategies needed.
 
 ### Tools Used: Power BI | DAX | Data Modelling | Data Cleaning
 ### Business Impact: Helped identify profitable categories, top customers, and regional growth opportunities.
