@@ -9,8 +9,10 @@ I recently completed this interactive Power BI dashboard as part of my internshi
 4.West region performs best in profit, while South and Central regions have growth potential.     
 5.Discounts show a negative impact on profit — suggesting smarter discount strategies needed.     
 
-### Tools Used: Power BI | DAX | Data Modelling | Data Cleaning
-### Business Impact: Helped identify profitable categories, top customers, and regional growth opportunities.
+### Tools Used: 
+Power BI | DAX | Data Modelling | Data Cleaning
+### Business Impact: 
+Helped identify profitable categories, top customers, and regional growth opportunities.
 
 
 
