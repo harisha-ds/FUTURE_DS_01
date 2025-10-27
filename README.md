@@ -17,7 +17,7 @@ Helped identify profitable categories, top customers, and regional growth opport
 
 
 ## Project2:
-## Social Media Campaign Performance Tracker | Power BI Project
+## Social Media Campaign Performance Tracker | Power BI Project (https://docs.google.com/spreadsheets/d/1G2Gpy4lp3Ibki2HcwFdChiOq8jgAvTkh/edit?usp=drive_link&ouid=116810806532204088720&rtpof=true&sd=true)
 
 Just wrapped up my latest data analytics project focused on evaluating the performance of social media ad campaigns across multiple platforms — Facebook, Instagram, Twitter, and Pinterest.
 
